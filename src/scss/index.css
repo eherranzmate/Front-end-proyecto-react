@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  display: flex;
+  width: 100%;
+  height: auto;
+  background-image: url("../../public/assets/fondo  copia.jpeg");
+  background-image: no-repeat;
+  background-image: fixed;
+  background-image: center;
+  background-size: cover;
+}
+
+#root {
+  display: flex;
+  width:100%;
+  
+}/*# sourceMappingURL=index.css.map */
